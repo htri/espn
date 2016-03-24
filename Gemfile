@@ -16,6 +16,7 @@ gem 'better_errors'
 gem 'rb-readline'
 gem 'bootstrap-sass'
 gem 'simple_form'
+gem 'devise', '~> 3.4.1'
 
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
